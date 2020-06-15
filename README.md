@@ -4,11 +4,30 @@ Nikola Tesla's turbine is a unique turbine in that it does not contain any bucke
 
 The turbine operates in two modes. If the axle is spun using another mechanical device, such as a motor, it becomes a pump. In this mode it sucks water into the holes near the center of the disk and ejects the fluid from the tangent of the disks. If a high velocity fluid is injecting at the tangent of the disks it becomes a turbine. In this mode the fluid causes the axle to spin at a high velocity.
 
+## What is this repository?
+
+This repository is made up of CAD drawings based on Tesla's patents. These drawings can be used to machine full scale turbines and pumps. Some very minor liberties have been taken in his patents primarily for ease of machinability. The current design is based on a layered approach, cutting parts with a laser cutter instead of a CNC mill. This method should dramatically reduce the time needed to machine parts. 
+
+> `All drawings are done in metric!`
+
+## File formate
+
+Originally these drawings were made using Solidworks 2015. Since Solidworks is not a free CAD tool, additional file formats are included in the repository including STL and DXF. As this repository grows additional formats will be included.
+
+# More about Tesla Turbine
+
+## Patents
+
+> 1913 Patent
+
+> 1921 Patent
+
+
+
 ## Turbine Mode
 
 ## Pump Mode
 
-## Patents
 
 ## History of the Tesla Turbine
 
