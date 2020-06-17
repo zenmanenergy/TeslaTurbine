@@ -1,5 +1,7 @@
 # Tesla Turbine and Pump
 
+*this is a work in progress, please fork this repository and help edit the README files!*
+
 Nikola Tesla's turbine is a unique turbine in that it does not contain any buckets or blades. This turbine consists of a 'runner' of very thin, flat disks that are keyed to an axle. Each of the disks on the runner is seperated from the other disks with a thin star shaped spacer. Near the axle, each disks contains 8 holes in them. Unlike bucket and blade style turbines, the Tesla turbine works based on a fluid's properties of viscosity and adhesion. 
 
 The turbine operates in two modes. If the axle is spun using another mechanical device, such as a motor, it becomes a pump. In this mode it sucks water into the holes near the center of the disk and ejects the fluid from the tangent of the disks. If a high velocity fluid is injected at the tangent of the disks it becomes a turbine. In this mode the fluid causes the axle to spin at a high velocity.
@@ -10,7 +12,7 @@ This repository is made up of CAD drawings based on Tesla's patents. These drawi
 
 > `All drawings are done in metric!`
 
-## File formate
+## File format
 
 Originally these drawings were made using Solidworks 2015. Since Solidworks is not a free CAD tool, additional file formats are included in the repository including STL and DXF. As this repository grows additional formats will be included.
 
